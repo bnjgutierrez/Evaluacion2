@@ -2,7 +2,7 @@
 Este proyecto es un prototipo de software de geolocalización desarrollado en Python para los visitantes de la Biblioteca Nacional
 
 ## Instrucciones de ejecución
-Para ejecutar este script de Python correctamente en su entorno (como la VM DEVASC), siga estos pasos:
+Para ejecutar este script de Python correctamente en su entorno, siga estos pasos:
 
 1. Asegúrese de tener instalada la librería `requests`. Si no la tiene, instálela ejecutando en su terminal:
    `pip install requests`
