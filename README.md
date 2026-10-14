@@ -1,3 +1,6 @@
+## Descripción del Proyecto
+Este proyecto es un prototipo de software de geolocalización desarrollado en Python para los visitantes de la Biblioteca Nacional
+
 ## Instrucciones de ejecución
 Para ejecutar este script de Python correctamente en su entorno (como la VM DEVASC), siga estos pasos:
 
